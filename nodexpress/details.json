@@ -1,0 +1,7 @@
+{
+    "host": "send.host.com",
+    "port": 465,
+    "secure": true,
+    "email": "email@email.com",
+    "password": "password" 
+}
