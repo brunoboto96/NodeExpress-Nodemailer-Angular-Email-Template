@@ -1,7 +1,7 @@
 {
-    "host": "send.host.com",
+    "host": "smtp.gmail.com",
     "port": 465,
     "secure": true,
-    "email": "email@email.com",
-    "password": "password" 
+    "email": "email@gmail.com",
+    "password": "password"
 }
